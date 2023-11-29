@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747519696662",
+    "project_id": "mynotes-flutter-reisdev",
+    "storage_bucket": "mynotes-flutter-reisdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747519696662:android:c118556a04aca15283ba37",
+        "android_client_info": {
+          "package_name": "io.github.viquitorreis.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUl4RcvOpqrkGQQ-ewVHuPLaGBxyRQvQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
